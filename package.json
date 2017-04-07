@@ -1,0 +1,19 @@
+{
+  "name": "job-application-management-system",
+  "version": "1.0.0",
+  "description": "An application for tracking your individual job interests.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianPetak/job-application-management-system.git"
+  },
+  "author": "Sebastian Petak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianPetak/job-application-management-system/issues"
+  },
+  "homepage": "https://github.com/SebastianPetak/job-application-management-system#readme"
+}
