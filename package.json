@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/SebastianPetak/job-application-management-system/issues"
   },
-  "homepage": "https://github.com/SebastianPetak/job-application-management-system#readme"
+  "homepage": "https://github.com/SebastianPetak/job-application-management-system#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "mysql": "^2.13.0",
+    "winston": "^2.3.1",
+    "yargs": "^7.0.2"
+  }
 }
